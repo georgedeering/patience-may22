@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"uk.ac.aber.dcs.cs12320.cards.gui.javafx","l":"CardTable"},{"p":"<Unnamed>","l":"Game"},{"p":"<Unnamed>","l":"Leaderboard"}];updateSearchResults();
